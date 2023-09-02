@@ -1,0 +1,2 @@
+Ê‹å = Ê‹å
+program took 26.723816 seconds

@@ -1,0 +1,2 @@
+¦ã¨j = ¦ã¨j
+program took 0.257820 seconds

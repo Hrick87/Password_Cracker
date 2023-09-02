@@ -1,0 +1,2 @@
+³TÚ = ³TÚ
+program took 0.000432 seconds

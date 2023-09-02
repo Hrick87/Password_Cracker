@@ -1,0 +1,2 @@
+ºiD = ºiD
+program took 24.984895 seconds

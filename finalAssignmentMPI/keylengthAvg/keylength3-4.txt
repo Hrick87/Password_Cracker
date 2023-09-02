@@ -1,0 +1,2 @@
+f‰r = f‰r
+program took 0.000574 seconds

@@ -1,0 +1,2 @@
+<Å = <Å
+program took 0.031124 seconds

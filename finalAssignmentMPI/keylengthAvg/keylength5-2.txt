@@ -1,0 +1,2 @@
+Ñm[o = Ñm[o
+program took 25.473772 seconds

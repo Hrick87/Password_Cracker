@@ -1,0 +1,2 @@
+È/ = È/
+program took 0.000400 seconds

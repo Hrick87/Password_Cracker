@@ -1,0 +1,2 @@
+T = T
+program took 10.747340 seconds

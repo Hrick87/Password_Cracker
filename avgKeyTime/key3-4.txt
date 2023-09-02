@@ -1,0 +1,2 @@
+±s/ = ±s/
+program took 0.089093 seconds

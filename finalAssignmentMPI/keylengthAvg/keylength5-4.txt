@@ -1,0 +1,2 @@
+O¦H = O¦H
+program took 22.762025 seconds

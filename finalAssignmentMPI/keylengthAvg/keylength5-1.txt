@@ -1,0 +1,2 @@
+§˜AZ = §˜AZ
+program took 41.384140 seconds

@@ -1,0 +1,2 @@
+ÿÿÿÿÿ = ÿÿÿÿÿ
+program took 127.771637 seconds

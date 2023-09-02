@@ -1,0 +1,2 @@
+‚R = ‚R
+program took 0.000371 seconds
